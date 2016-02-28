@@ -1,0 +1,21 @@
+{
+    "name": "sgomez/simplesamlphp-module-openidsir",
+    "description": "A SimpleSAMLphp filter for SIR OpenID attributes.",
+    "type": "simplesamlphp-module",
+    "keywords": [ "oauth2" ],
+    "license": "LGPL-2.1",
+    "authors": [
+        {
+            "name": "Sergio Gómez",
+            "email": "sergio@uco.es"
+        }
+    ],
+    "require": {
+        "simplesamlphp/composer-module-installer": "~1.0",
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
